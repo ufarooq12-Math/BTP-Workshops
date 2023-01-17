@@ -2,10 +2,10 @@
 
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Ummad Farooq
+Student ID#: 131776197
+Email      : ufarooq12@myseneca.ca
+Section    : NAA
 
 Authenticity Declaration:
 
@@ -14,4 +14,6 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ///////////////////////////////////////////////////////////////////////////
 
-
+1. I don't have any experience with programming besides the few days I practised on. My initial day in the course I feel like this course will be challening and I hope I can manage. 
+2. I am not too sure on how to compile a C text file into a executable program but I hope I can get the hang of it soon enough 
+3. I hope to gain a better understanding of the fundamentals and I hopefully utilize these skills later on in other courses. 
